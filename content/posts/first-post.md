@@ -1,8 +1,8 @@
 +++
 date = '2026-03-11T21:23:31+01:00'
-draft = true
+draft = false
 title = 'First Post'
 +++
 ## Hello World
 
-Setting up my new blog!
+This is my personal blog where I'll talk about things I find interesting.

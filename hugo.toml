@@ -2,3 +2,39 @@ baseURL = 'https://meschter.me/'
 languageCode = 'en-us'
 title = "Marius' Blog"
 theme = "PaperMod"
+enableRobotsTXT = true
+
+[params]
+title = "Marius' Blog"
+description = "Personal blog where I talk about stuff I'm interested in"
+author = "Marius Meschter"
+DateFormat = "2006-01-02"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowCodeCopyButtons = true
+ShowWordCount = true
+comments = false
+
+[params.homeInfoParams]
+  Title = "Hello World 🍵"
+  Content = """
+Thanks for visiting my blog.
+I live in Germany and work as a software developer.
+I basically just write about whatever currently interests me or what I'm working on right now.
+My interests include CI/CD, software supply chain security, Kubernetes, identity and access management, distributed systems and various other software things.
+I'm also currently learning about electronics, PCB design and home SMD soldering as well as embedded development."""
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/onestay/"
+
+[[params.socialIcons]]
+name = "mastodon"
+url = "https://infosec.exchange/@onestay"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/marius-meschter-947460273"
+
+[params.assets]
+disableFingerprinting = true
