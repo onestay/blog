@@ -14,6 +14,8 @@ ShowReadingTime = true
 ShowCodeCopyButtons = true
 ShowWordCount = true
 comments = false
+ShowAllPagesInArchive = true
+ShowToc = true
 
 [params.homeInfoParams]
   Title = "Hello World 🍵"
@@ -38,3 +40,18 @@ url = "https://www.linkedin.com/in/marius-meschter-947460273"
 
 [params.assets]
 disableFingerprinting = true
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+
+[[menu.main]]
+identifier = "archive"
+name = "Archive"
+url = "/archives/"
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
