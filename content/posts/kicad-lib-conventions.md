@@ -1,5 +1,5 @@
 +++
-date = '2026-03-11T21:23:31+01:00'
+date = '2026-03-14T13:39:00+01:00'
 draft = false
 title = 'Personal Kicad Library Convention (KLC)'
 tags = ["kicad"]
