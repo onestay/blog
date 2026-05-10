@@ -1,6 +1,6 @@
 +++
 date = '2026-05-09T18:52:43+02:00'
-draft = true
+draft = false
 title = 'Understanding Nix from first principles'
 tags = ['nix', 'nix-darwin']
 +++
