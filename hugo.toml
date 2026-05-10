@@ -17,6 +17,12 @@ comments = false
 ShowAllPagesInArchive = true
 ShowToc = true
 
+[markup.highlight]
+lineNos = true
+lineNumbersInTable = true  # cleaner copy-paste behavior
+style = "monokai"          # or any Chroma style
+tabWidth = 4
+
 [params.homeInfoParams]
   Title = "Hello World 🍵"
   Content = """
