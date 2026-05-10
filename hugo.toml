@@ -45,7 +45,7 @@ name = "linkedin"
 url = "https://www.linkedin.com/in/marius-meschter-947460273"
 
 [params.assets]
-disableFingerprinting = true
+disableFingerprinting = false
 
 [[menu.main]]
 identifier = "tags"
